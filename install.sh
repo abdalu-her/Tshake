@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bashhttps://github.com/tshakeabas/Tshake
 cd $HOME/Tshake
 install() {
 rm -rf $HOME/.telegram-cli
